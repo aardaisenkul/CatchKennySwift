@@ -2,12 +2,11 @@
 
 # Initial Screen
 
-![alt text](https://github.com/aardaisenkul/CatchKennySwift/blob/main/game.png?raw=true)
+<img src="https://github.com/aardaisenkul/CatchKennySwift/blob/main/menu.png" width="250" >
 
 # Main Game
 
-
-![alt text](https://github.com/aardaisenkul/CatchKennySwift/blob/main/game.png?raw=true)
+<img src="https://github.com/aardaisenkul/CatchKennySwift/blob/main/game.png" width="250" >
 
 # Developed by: Ali Arda İsenkul
 # Innova IOS Bootcamp
