@@ -9,4 +9,3 @@
 <img src="https://github.com/aardaisenkul/CatchKennySwift/blob/main/game.png" width="250" >
 
 # Developed by: Ali Arda İsenkul
-# Innova IOS Bootcamp
